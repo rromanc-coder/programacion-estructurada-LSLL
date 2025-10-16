@@ -11,7 +11,7 @@ Este repositorio contiene **8 programas Java** alineados con el plan de clase. C
 
 ## Estructura
 ```
-la_salle_java_compendio/
+programacion-estructurada-LSLL/
 ├── C01_HolaMundoDiagnostico.java
 ├── C02_AlgoritmoAreaTriangulo.java
 ├── C03_MenuConEstructuras.java
